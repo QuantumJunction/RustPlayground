@@ -59,5 +59,5 @@ cargo test
 ## Guidelines
 
 - Keep experiments separated so they don’t interfere with each other.
--Throw away what’s not useful.
--Anything that might be handy more than once goes into utils/.
+- Throw away what’s not useful.
+- Anything that might be handy more than once goes into utils/.
