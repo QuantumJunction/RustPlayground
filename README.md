@@ -12,8 +12,8 @@ A simple space for experimenting with Rust snippets, testing features, and tryin
 ## Getting Started
 1. Clone the repo
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/QuantumJunction/RustPlayground.git
+cd RustPlayground
 ```
 
 2. Install Rust (if not already installed)
